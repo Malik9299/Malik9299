@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdul Ghafoor</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Malik9299"/></a>
+</p>
+
 - 🔭 I’m currently working on [next-js](https://github.com/Malik9299/next-js)
 
 - 👯 I’m looking to collaborate on [express-js](https://github.com/Malik9299/express-js-v2)
