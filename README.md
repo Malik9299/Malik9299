@@ -8,7 +8,7 @@
 - 💬 Ask me about **react, express**
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Malik9299"/></a>
+    <a href="https://streak-stats.demolab.com?user=Malik9299"><img src="https://streak-stats.demolab.com?user=Malik9299"/></a>
 </p>
 
 - 📫 How to reach me **agawan786@gmail.com**
