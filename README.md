@@ -9,6 +9,7 @@
 
 <p align="center">
     <a href="https://streak-stats.demolab.com?user=Malik9299"><img src="https://streak-stats.demolab.com?user=Malik9299"/></a>
+    <a href="[https://streak-stats.demolab.com?user=Malik9299](https://github-readme-stats.vercel.app/api/top-langs/?username=Malik9299&hide_progress=true)"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik9299&hide_progress=true"/></a>
 </p>
 
 - 📫 How to reach me **agawan786@gmail.com**
