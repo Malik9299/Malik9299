@@ -13,14 +13,16 @@
 </p>
 <p>
 
-
-<a href="https://github.com/Malik9299/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Malik9299" />
-</a>
-<a href="https://github.com/Malik9299/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Malik9299&layout=compact&langs_count=8&card_width=320" />
-</a>
-
+<p align="center">
+    <a href="https://github.com/Malik9299/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Malik9299" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/Malik9299/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Malik9299&layout=compact&langs_count=8&card_width=320" />
+    </a>
+</p>
 
     
 </p>
