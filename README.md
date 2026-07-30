@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Ghafoor</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Jalaluddin</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
 - 🔭 I’m currently working on [next-js](https://github.com/Malik9299/next-js)
